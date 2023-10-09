@@ -6,7 +6,7 @@ In this document, I will provide an overview of my experiences and responsibilit
 
 ## Overview
 
-During my time as a **QA Engineer** within GOIT, I was involved in various aspects of software testing and quality assurance. My role encompassed a wide range of activities, including creating test artifacts, managing a QA project, and testing a multi-platform money management application.
+As a **QA Engineer** within GOIT, I was involved in various aspects of software testing and quality assurance. My role encompassed a wide range of activities, including creating test artifacts, managing a QA project, and testing a multi-platform money management application.
 
 ## Internship Highlights
 
@@ -34,7 +34,7 @@ I had the opportunity to take on a leadership role as a **Team Leader** at GOIT.
 
 ### Project Focus
 
-Our QA project primarily revolved around testing a comprehensive money management application designed for various platforms, including Android, iOS, and Web. This project allowed us to apply our testing skills to a real-world application and gain valuable experience in multi-platform testing.
+Our QA project primarily revolved around testing a comprehensive money management application designed for various platforms, including mobile and Web. This project allowed us to apply our testing skills to a real-world application and gain valuable experience in multi-platform testing.
 
 [Project link & documentation](https://docs.google.com/spreadsheets/d/1P_LeYzoPILSB9EEFxOubMSqV2TTPDHwqieSdDNuxTPQ/edit?usp=sharing)
 
