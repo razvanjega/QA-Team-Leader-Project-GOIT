@@ -25,7 +25,7 @@ I participated in several crucial activities related to test artifact creation, 
 
 I had the opportunity to take on a leadership role as a **Team Leader** at GOIT. Here are some of my responsibilities as a Team Leader:
 
-- **Project Management:** Successfully managed a QA project with a team of 6 professionals.
+- **Project Management:** Successfully managed a QA project with a team of _6 professionals._
 - **Test Oversight:** Overseeing test preparation and execution to ensure the team's work met quality standards.
 - **Quality Assurance:** Ensured the quality of checklists and bug reports produced by the team.
 - **Project Assignments:** Assigned tasks and responsibilities to team members.
