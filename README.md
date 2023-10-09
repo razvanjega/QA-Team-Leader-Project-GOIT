@@ -1,6 +1,6 @@
 # QA Engineer Internship at GOIT @ Final Project
 
-Welcome to the README for my QA Engineer Internship at GOIT!
+Welcome to the README file!
 
 In this document, I will provide an overview of my experiences and responsibilities during this internship.
 
