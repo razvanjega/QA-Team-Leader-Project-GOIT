@@ -1,4 +1,4 @@
-# QA Engineer Team Leader Project @ GOIT
+# QA Engineer: Team Leader Project @ GOIT
 
 Welcome to the README file!
 
