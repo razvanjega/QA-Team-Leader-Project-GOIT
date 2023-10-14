@@ -2,7 +2,7 @@
 
 Welcome to the README file!
 
-In this document, I will provide an overview of my experiences and responsibilities during this project.
+In this document, I will provide an overview of my experience and responsibilities as a Team Leader during this project.
 
 ## Overview
 
@@ -42,7 +42,7 @@ Our QA project primarily revolved around testing a comprehensive money managemen
 
 What can I say about being a QA Engineer intern at GOIT is that it was a valuable and enriching experience. I gained hands-on experience in various aspects of software testing, took on a leadership role, and contributed to the quality assurance of a complex application. This internship has equipped me with the skills and knowledge needed to excel in the field of quality assurance and software testing.
 
-Thank you for taking the time to read about my **QA Engineer Team Leader Project @ GOIT** and my journey as a QA Engineer! 
+Thank you for taking the time to read about my experience and responsibilities as a Team Leader within the final project @ GOIT! 
 
 If you have any questions or would like to connect, please feel free to reach out.
 
