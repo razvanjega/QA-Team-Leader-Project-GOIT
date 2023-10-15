@@ -21,6 +21,17 @@ I participated in several crucial activities related to test artifact creation, 
 - **Functional/Non-functional Testing:** Conducted both functional and non-functional testing to assess the software's functionality and performance.
 - **Regression Testing:** Performed regression testing to verify that new code changes did not introduce new defects.
 
+### Skills & Technologies
+
+**Web Development:** HTML, CSS
+**Data Formats:** JSON, XML
+**Testing Tools:** TESTRAIL, JIRA, POSTMAN API
+**Version Control:** SOURCETREE, GIT, GITHUB
+**Database Management:** DBEAVER (SQL)
+**Screen Capture:** SHAREX
+**Project Management:** TRELLO, SLACK
+**Microsoft Office:** Excel
+
 ### Team Leadership
 
 I had the opportunity to take on a leadership role as a **Team Leader** at GOIT. Here are some of my responsibilities as a Team Leader:
