@@ -23,14 +23,14 @@ I participated in several crucial activities related to test artifact creation, 
 
 ### Skills & Technologies
 
-**Web Development:** HTML, CSS
-**Data Formats:** JSON, XML
-**Testing Tools:** TESTRAIL, JIRA, POSTMAN API
-**Version Control:** SOURCETREE, GIT, GITHUB
-**Database Management:** DBEAVER (SQL)
-**Screen Capture:** SHAREX
-**Project Management:** TRELLO, SLACK
-**Microsoft Office:** Excel
+- **Web Development:** HTML, CSS
+- **Data Formats:** JSON, XML
+- **Testing Tools:** TESTRAIL, JIRA, POSTMAN API
+- **Version Control:** SOURCETREE, GIT, GITHUB
+- **Database Management:** DBEAVER (SQL)
+- **Screen Capture:** SHAREX
+- **Project Management:** TRELLO, SLACK
+- **Microsoft Office:** Excel
 
 ### Team Leadership
 
